@@ -12,7 +12,7 @@ This React-based To-Do List application allows users to manage daily tasks with 
 - Adding, deleting, and completing tasks
 - Filtering tasks (All, Active, Completed)
 - Sorting tasks by name and date
-- storage using localStorage
+- Persistence using localStorage
 
 ---
 

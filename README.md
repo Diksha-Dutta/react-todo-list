@@ -1,6 +1,6 @@
 # ✅ React To-Do List Application
 
-**Student Name:** Diksha Dutta
+**Name:** Diksha Dutta
 
 
 ---

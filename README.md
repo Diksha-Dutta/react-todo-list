@@ -26,4 +26,4 @@ To verify the React To-Do List app:
 4. **Delete Tasks:** Click 'X' next to a task to delete it.
 5. **Filtering:** Use filter buttons to view All, Active, or Completed tasks.
 6. **Sorting:** Use the dropdown to sort tasks by date or name(asc/desc).
-7. **Storage:** Refresh the page; tasks should persist via localStorage.
+7. **Persistence:** Refresh the page; tasks should persist via localStorage.
